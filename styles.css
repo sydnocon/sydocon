@@ -1,0 +1,35 @@
+body{
+    background-image: url(highres_brwn_ppr.jpg);
+    background-size: 100%;
+    max-width: 100%;
+    background-repeat: no-repeat;
+
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+    image-rendering: crisp-edges;
+    image-rendering: -webkit-optimize-contrast;
+}
+
+.gif{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    padding-top: 235px;
+}
+
+@font-face{
+    font-family: myFont;
+    src: url(LittleSydneyRev-Regular.ttf);
+}
+
+#msg{
+    display:flex;
+    justify-content: center;
+    font-family: myFont, sans-serif;
+    color:white;
+    font-size: 20pt;
+    
+}
