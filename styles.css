@@ -1,5 +1,5 @@
 body{
-    background-image: url(highres_brwn_ppr.jpg);
+    background-image: url(PinkCardRev.jpg);
     background-size: 100%;
     max-width: 100%;
     background-repeat: no-repeat;
@@ -31,7 +31,7 @@ body{
     display:flex;
     justify-content: center;
     font-family: myFont, sans-serif;
-    color:white;
+    color: rgb(250, 209, 209);
     font-size: 20pt;
     font-weight: bolder;
     text-decoration: none;
