@@ -18,8 +18,6 @@ body{
     align-items: center;
     height: auto;
     padding-top: 235px;
-
-    mix-blend-mode: color-dodge;
 }
 
 @font-face{
